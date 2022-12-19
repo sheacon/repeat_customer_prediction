@@ -10,7 +10,7 @@
 - The motivation behind the model is to enable targetted marketing for increased ROI
 
 ## Data security
-The data set is for research purpose only. It is not to be shared with anyone.
+The dataset is for research purpose only and not shared in the public repo.
 
 ## Data Description
 
