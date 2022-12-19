@@ -4,6 +4,10 @@
 - We compared tree-based and neural network approaches, finding our best results in a multilayer perceptron model with three fully-connected hidden layers (10/30/10), ReLU activation functions, and an Adam optimizer.
 - This is a personal fork of an academic group project. Credit to Mubarak Ganiyu, Sydney Simmons, Shuyang Lin, and Weixi Chen for initial work.
 
+![eda](readme_images/eda.png)
+
+![models](readme_images/models.png)
+
 # Objective
 
 - Create a model to predict likely Bridgestone customers in the next month
