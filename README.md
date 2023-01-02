@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sheacon/repeat_customers)
+
+
 # Repeat Customer Prediction
 
 - With more substantial feature engineering and model selection, our project group out-performed all teams in the current and previous class year.
