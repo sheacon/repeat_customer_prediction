@@ -14,6 +14,9 @@
 
 ![models](readme_images/models.png)
 
+<br>
+<br>
+
 # Objective
 
 - Create a model to predict likely Bridgestone customers in the next month
