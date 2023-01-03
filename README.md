@@ -22,9 +22,6 @@
 - Create a model to predict likely Bridgestone customers in the next month
 - The motivation behind the model is to enable targetted marketing for increased ROI
 
-## Data security
-The dataset is for research purpose only and not shared in the public repo.
-
 ## Data Description
 
 - Individual customer IDs
@@ -36,7 +33,4 @@ The dataset is for research purpose only and not shared in the public repo.
 **Note:**
 - Discounts appear as separate line items (usually with negative sales amount) within transactions.
 - Transaction IDs are only unique within store-day.
-- Product group = 5 to filter on tires. 
-
-# Project Notebook Structure
-All *0- (e.g., 10-, 20-, 30-) files contain finalized work for the purpose described (e.g., “process-data”). Subfiles related to the task are *#- (e.g., 11-, 12-)
+- Product group = 5 to filter on tires.
